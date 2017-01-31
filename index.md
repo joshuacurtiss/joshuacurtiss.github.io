@@ -4,4 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-![Us](photos/IMG_5903.jpg)
+<noscript><p><img src="photos/31.jpg" alt="Us" title="Us" /></p></noscript>
+<p id="photo"></p>
+<script src="photo.js"></script>
