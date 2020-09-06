@@ -9,11 +9,11 @@ Aerial photography and videography has been a passion of mine since discovering 
 
 Samples of my work can be found at:
 
-### Instagram
+## Instagram
 [@aerialescape](https://www.instagram.com/aerialescape)
 
-### YouTube
+## YouTube
 Try my [Aerial Videography](http://bit.ly/aerialvideography) playlist on my [@JoshuaCurtiss](https://www.youtube.com/joshuacurtiss/videos) account.
 
-### Additional Editing Work
+## Additional Editing Work
 A sample of my editing work is a [50th Anniversary Presentation](http://bit.ly/curtiss50th) I designed for my parents, which demonstrates photo and video editing with emphasis on composition matching musical presentation. 
