@@ -36,13 +36,17 @@
 			<li class="splide__slide"><img data-splide-lazy="photos/16.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/17.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/18.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="photos/20.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/21.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/22.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/23.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/24.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="photos/25.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="photos/26.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/27.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/28.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/29.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="photos/30.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/31.jpg" /></li>
 		</ul>
 	</div>
