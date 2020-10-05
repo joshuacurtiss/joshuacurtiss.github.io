@@ -1,6 +1,17 @@
-header h1 a {color:black;}
-#main_content p img {
+header {
+    padding: 15px 0 0 0;
+}
+header h1 a {
+    color:black;
+}
+.splide {
+    margin-bottom: 20px;
+}
+.splide__track {
     border: 1px solid black; 
     border-radius: 15px;
     box-shadow: 4px 4px 8px #aaa;
+}
+.splide__track ul li {
+     padding: 0;
 }
