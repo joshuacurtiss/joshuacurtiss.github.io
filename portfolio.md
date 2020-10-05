@@ -17,6 +17,7 @@ Aerial photography and videography has been a passion of mine since discovering 
 		new Splide( '.splide', {
 			type: 'loop',
 			autoplay: true,
+			interval: 3500,
 			rewind: true,
 			lazyLoad: 'nearby'
 		} ).mount();
@@ -25,17 +26,17 @@ Aerial photography and videography has been a passion of mine since discovering 
 <div class="splide">
 	<div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide"><img src="1.jpg" /></li>
-			<li class="splide__slide"><img src="2.jpg" /></li>
-			<li class="splide__slide"><img src="3.jpg" /></li>
-			<li class="splide__slide"><img src="4.jpg" /></li>
-			<li class="splide__slide"><img src="5.jpg" /></li>
-			<li class="splide__slide"><img src="6.jpg" /></li>
-			<li class="splide__slide"><img src="7.jpg" /></li>
-			<li class="splide__slide"><img src="8.jpg" /></li>
-			<li class="splide__slide"><img src="9.jpg" /></li>
-			<li class="splide__slide"><img src="10.jpg" /></li>
-			<li class="splide__slide"><img src="11.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="1.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="2.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="3.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="4.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="5.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="6.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="7.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="8.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="9.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="10.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="11.jpg" /></li>
 		</ul>
 	</div>
 </div>
