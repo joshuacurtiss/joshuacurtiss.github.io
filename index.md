@@ -20,6 +20,7 @@
 <div class="splide">
 	<div class="splide__track">
 		<ul class="splide__list">
+			<li class="splide__slide"><img data-splide-lazy="photos/1.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/2.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/3.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/4.jpg" /></li>
@@ -27,6 +28,7 @@
 			<li class="splide__slide"><img data-splide-lazy="photos/6.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/7.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/8.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="photos/9.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/10.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/11.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/12.jpg" /></li>
@@ -36,6 +38,7 @@
 			<li class="splide__slide"><img data-splide-lazy="photos/16.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/17.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/18.jpg" /></li>
+			<li class="splide__slide"><img data-splide-lazy="photos/19.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/20.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/21.jpg" /></li>
 			<li class="splide__slide"><img data-splide-lazy="photos/22.jpg" /></li>
