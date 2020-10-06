@@ -6,7 +6,7 @@
 
 # Josh's thoughts on technology! #
 
-My thoughts on Apple, Linux, source control, Node.js, ColdFusion, JavaScript, Raspberry Pi, and other fun stuff!
+My thoughts on Apple, Microsoft, Linux, source control, Node.js, ColdFusion, JavaScript, Raspberry Pi, and other fun stuff!
 
 <div class="postlist">
 {% for post in site.posts %}
